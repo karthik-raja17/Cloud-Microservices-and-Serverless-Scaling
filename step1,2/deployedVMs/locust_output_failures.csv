@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegralservice/0/3.14159,HTTPError('502 Server Error: Bad Gateway for url: /numericalintegralservice/0/3.14159'),283
+GET,/numericalintegralservice/0/3.14159,"ConnectionRefusedError(10061, '[WinError 10061] No connection could be made because the target machine actively refused it.')",25
+GET,/numericalintegralservice/0/3.14159,RemoteDisconnected('Remote end closed connection without response'),20
